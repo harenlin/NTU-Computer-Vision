@@ -1,8 +1,8 @@
 # NTU-Computer-Vision-Homeworks
 National Taiwan University - Computer Vision
-Course Number: CSIE5732 Computer Vision
-Instructor: 傅楸善 Chiu-San Fu @ NTU CSIE, Taipei, Taiwan
-Course website http://cv2.csie.ntu.edu.tw/CV/index.html
+* Course Number: CSIE5732 Computer Vision
+* Instructor: 傅楸善 Chiu-San Fu @ NTU CSIE, Taipei, Taiwan
+* Course website http://cv2.csie.ntu.edu.tw/CV/index.html
 
 ## Homeworks
 * HW1 [Basic Image Manipulation](http://cv2.csie.ntu.edu.tw/CV/hw2021/hw1.html)
